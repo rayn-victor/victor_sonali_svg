@@ -1,0 +1,17 @@
+<svg id="_1" data-name="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+	<defs>
+		<style>
+			.cls-1{fill:#6a89a8;}
+			.cls-2{fill:#40637f;}
+			.cls-2,.cls-3{fill-rule:evenodd;}
+			.cls-3{fill:#eef2e0;}
+			#facebook:hover{opacity: .5; height: 75px; width: 75px;}
+		</style>
+	</defs>
+	<title>facebook1</title>
+	<g id="facebook">
+		<path class="cls-1" d="M12.75,28.72s-20.74,35,0,60.92,98.51,0,98.51,0,19.44-57-23.33-60.92S37.38,26.13,12.75,28.72Z"/>
+		<path class="cls-2" d="M63.82,48.32V42.38c0-2.85,2.95-3.53,5.08-3.53h13l.86-11.69L64,26.16c-19.9,0-24.36,9.4-24.36,15.5v6.66H28.09V63.14H39.77v37H54.24V63.23l25.84-.09.75-5.82,1.39-9Z"/>
+		<path class="cls-3" d="M69.61,49.32V43.38c0-2.85,2.15-3.53,3.7-3.53h9.45V27.16h-13C55.27,27.16,52,36.56,52,42.66v6.66h-8.4V64.14h8.49v37H62.65V64.23l18.79-.09L82,58.32l1-9Z"/>
+	</g>
+	</svg>

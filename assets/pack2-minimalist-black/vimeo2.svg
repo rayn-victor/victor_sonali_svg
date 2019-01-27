@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+	<defs>
+		<style>
+			.cls-1{fill:#262626;stroke:#262626;stroke-miterlimit:10;}
+			.cls-2,.cls-3{fill:#eef2e0;fill-rule:evenodd;}
+			.cls-3{opacity:0.2;}
+			#vimeo:hover{opacity: .5; height: 75px; width: 75px;}
+		</style>
+	</defs>
+	<title>vimeo2</title>
+	<g id="_2" data-name="2">
+		<g id="vimeo">
+			<circle class="cls-1" cx="60.4" cy="61.57" r="49"/>
+			<path class="cls-2" d="M89.61,51C86.25,69.78,67.64,85.72,62,89.36S51.28,87.85,49.44,84C47.32,79.65,41,55.87,39.28,53.87s-6.64,2-6.64,2l-2.42-3.19S40.35,40.55,48.12,39c8.16-1.58,8.16,12.55,10.1,20.49,1.93,7.61,3.19,11.94,4.87,11.94s4.84-4.23,8.32-10.75-.12-12.29-7-8.16C67.19,36.16,92.93,32.23,89.61,51Z"/>
+			<path class="cls-3" d="M14.78,43.7s3.62-15,16.87-21.8l71,64.49S94,105,77.45,107.51Z"/>
+		</g>
+	</g>
+</svg>

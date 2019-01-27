@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+	<defs>
+		<style>
+			.cls-1{fill:#262626;stroke:#262626;stroke-miterlimit:10;}
+			.cls-2,.cls-3{fill:#eef2e0;fill-rule:evenodd;}
+			.cls-3{opacity:0.2;}
+			#tumblr:hover{opacity: .5; height: 75px; width: 75px;}
+		</style>
+	</defs>
+	<title>tumblr2</title>
+	<g id="_2" data-name="2">
+		<g id="tumblr">
+			<circle class="cls-1" cx="60.16" cy="61" r="49"/>
+			<path class="cls-2" d="M65,53.78V79.34c0,2.66,1.77,3.3,3,3.3,3.64-.14,2.64-5.14,2.64-5.14h10s2,18-15.56,17C52.66,93.5,50.56,85.72,50.56,80V53.78H39.66V39.94h11V25.34H64.46v14.6l12.2.56v13Z"/>
+			<path class="cls-3" d="M13.53,44.14s3.62-15,16.88-21.81l71,64.49S92.76,105.4,76.21,108Z"/>
+		</g>
+	</g>
+</svg>
